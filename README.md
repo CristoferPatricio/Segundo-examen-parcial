@@ -7,7 +7,7 @@ Este repositorio contiene la implementación de una **lista doblemente enlazada 
 - **Repositorio GitHub**: https://github.com/CristoferPatricio/Segundo-examen-parcial
 
 
-- **Video explicativo (YouTube o Google Drive)**: [https://youtu.be/XXXXXXXXXXX](https://youtu.be/XXXXXXXXXXX)  
+- **Video explicativo (YouTube o Google Drive)**: https://drive.google.com/file/d/15hnpviy5nTncr5W-IJNr5uKozbfbClZy/view?usp=drive_link
 
 
 ## 📁 Estructura del proyecto
